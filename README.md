@@ -5,11 +5,11 @@
 
 ### Projects
 
-| [mtgscan : card recognition with OCR ](https://github.com/fortierq/mtgscan) | [Web application for mtgscan](https://github.com/fortierq/mtgscan-app) | [Image retrieval from text query](https://github.com/fortierq/image-retrieval) |  [(Old) Optimal surface cutting (C++, Blender)](https://github.com/fortierq/OC3D) | [(Old) Counterexample of the Hirsch conjecture](https://github.com/fortierq/Prismatoid)
-|---|---|---|---|---|
+| [mtgscan : card recognition with OCR (Python) ](https://github.com/fortierq/mtgscan) | [Web application for mtgscan (Python)](https://github.com/fortierq/mtgscan-app) | [Image retrieval from text query (Python)](https://github.com/fortierq/image-retrieval) | [Notebook collection (Python)](https://github.com/fortierq/notebooks) | [(Old) Optimal surface cutting (C++, Blender)](https://github.com/fortierq/OC3D) | [(Old) Counterexample of the Hirsch conjecture (C++, Z3)](https://github.com/fortierq/Prismatoid)
+|---|---|---|---|---|---|
 
 ### Algorithms
-| [Competitive programming](https://github.com/fortierq/competitions) | [Algorithmic animations](https://github.com/fortierq/animations) | [Algorithms and data structures (Python)](https://github.com/fortierq/algorithms) | [Algorithms and data structures (OCaml)](https://github.com/fortierq/OCamlLibrary) | [(Old) Simple Graph Library (C++)](https://github.com/fortierq/SGL) |
+| [Competitive programming](https://github.com/fortierq/competitions) | [Algorithmic animations (Python, JS)](https://github.com/fortierq/animations) | [Algorithms and data structures (Python)](https://github.com/fortierq/algorithms) | [Algorithms and data structures (OCaml)](https://github.com/fortierq/OCamlLibrary) | [(Old) Simple Graph Library (C++)](https://github.com/fortierq/SGL) |
 |---|---|---|---|---|
 
 ### LaTeX
@@ -23,5 +23,5 @@
 |---|
 
 ### Utilities
-| [Limit time & memory usage of a Python function](https://github.com/fortierq/flimit)|
+| [flimit : Limit time & memory usage of a Python function](https://github.com/fortierq/flimit)|
 |---|
