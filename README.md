@@ -23,7 +23,7 @@ More information on my [website](https://github.com/fortierq/fortierq.github.io)
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#29](https://github.com/fortierq/itc1/pull/29) in [fortierq/itc1](https://github.com/fortierq/itc1)
-2. 🗣 Commented on [#29](https://github.com/fortierq/itc1/issues/29) in [fortierq/itc1](https://github.com/fortierq/itc1)
-3. 🎉 Merged PR [#2](https://github.com/fortierq/tikz/pull/2) in [fortierq/tikz](https://github.com/fortierq/tikz)
+1. ❌ Closed PR [#40](https://github.com/PandaScience/FortySecondsCV/pull/40) in [PandaScience/FortySecondsCV](https://github.com/PandaScience/FortySecondsCV)
+2. 🗣 Commented on [#40](https://github.com/PandaScience/FortySecondsCV/issues/40) in [PandaScience/FortySecondsCV](https://github.com/PandaScience/FortySecondsCV)
+3. 💪 Opened PR [#40](https://github.com/PandaScience/FortySecondsCV/pull/40) in [PandaScience/FortySecondsCV](https://github.com/PandaScience/FortySecondsCV)
 <!--END_SECTION:activity-->
