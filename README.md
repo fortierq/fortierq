@@ -5,7 +5,7 @@
 
 #### Projects
 
-| [mtgscan : card recognition with OCR (Python) ](https://github.com/fortierq/mtgscan) | [Web application for mtgscan (Python)](https://github.com/fortierq/mtgscan-app) | [Image retrieval from text query (Python)](https://github.com/fortierq/image-retrieval) | [Notebook collection (Python)](https://github.com/fortierq/notebooks) | [(Old) Optimal surface cutting (C++, Blender)](https://github.com/fortierq/OC3D) | [(Old) Counterexample of the Hirsch conjecture (C++, Z3)](https://github.com/fortierq/Prismatoid)
+| [mtgscan : card recognition with OCR (Python) ](https://github.com/fortierq/mtgscan) | [Web application for mtgscan (Python)](https://github.com/fortierq/mtgscan-app) | [Image retrieval from query (Python)](https://github.com/fortierq/image-retrieval) | [Notebook collection (Python)](https://github.com/fortierq/notebooks) | [(Old) Optimal surface cutting (C++, Blender)](https://github.com/fortierq/OC3D) | [(Old) Counterexample to the Hirsch conjecture (C++, Z3)](https://github.com/fortierq/Prismatoid)
 |---|---|---|---|---|---|
 
 #### Algorithms
