@@ -17,11 +17,6 @@
 | [TikZ gallery](https://github.com/fortierq/tikz) | [texmf files](https://github.com/fortierq/texmf) | [Dev container with LaTeX + Minted for Visual Code](https://github.com/fortierq/devcontainer-latex) |
 |---|---|---|
 
-#### Visual Code
-
-| [Visual Code configuration files](https://github.com/fortierq/vscode-config) |
-|---|
-
 #### Utilities
 | [flimit : Limit time & memory usage of a Python function](https://github.com/fortierq/flimit)|
 |---|
