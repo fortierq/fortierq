@@ -18,5 +18,5 @@
 |---|---|---|
 
 #### Utilities
-| [GitHub action to add a Binder link to a notebook](https://github.com/fortierq/add-binder-link-action) | [Python package to limit time & memory usage](https://github.com/fortierq/flimit)|
+| [GitHub action to add a Binder links to notebooks](https://github.com/fortierq/add-binder-link-action) | [Python package to limit time & memory usage](https://github.com/fortierq/flimit)|
 |---|---|
