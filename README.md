@@ -18,5 +18,5 @@
 |---|---|---|
 
 #### Utilities
-| [flimit : Limit time & memory usage of a Python function](https://github.com/fortierq/flimit)|
-|---|
+| [GitHub action to add a Binder link to a notebook](https://github.com/fortierq/add-binder-link-action) | [Python package to limit time & memory usage](https://github.com/fortierq/flimit)|
+|---|---|
