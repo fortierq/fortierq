@@ -1,7 +1,20 @@
-#### Courses
-
-| [Informatique en MP2I (OCaml, C)](https://github.com/mp2i-fsm/mp2i-2021) | [Optimisation en Master Intelligence artificelle (Python)](https://github.com/fortierq/oc-m1-2021) | [Informatique commune 1ère année en CPGE (Python, SQL)](https://github.com/fortierq/itc1) | [Informatique commune 2ème année en CPGE (Python, SQL)](https://github.com/fortierq/ipt2) |
-|---|---|---|---|
+<table class="tg">
+  <thead>
+  <tr>
+    <th class="tg-baqh" colspan="2">Courses</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><a href="https://github.com/mp2i-fsm/mp2i-2021">Informatique en MP2I (OCaml, C)</a></th>
+    <td class="tg-0lax"><a href="https://github.com/fortierq/oc-m1-2021)">Optimisation en Master Intelligence artificelle (Python)</a></th>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><a href="https://github.com/fortierq/itc1">Informatique commune 1ère année en CPGE (Python, SQL)</a></th>
+    <td class="tg-0lax"><a href="https://github.com/fortierq/ipt2)">Informatique commune 2ème année en CPGE (Python, SQL)</a></th>
+  </tr>
+</tbody>
+</table>
 
 #### ML Projects
 
