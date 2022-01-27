@@ -48,17 +48,55 @@
   </tr>
 </tbody>
 
+<thead>
+  <tr>
+    <th class="tg-baqh" colspan="3">Algorithms and data structures</th>
+  </tr>
+</tbody>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><a href="https://github.com/fortierq/competitions">Competitive programming</a></th>
+    <td class="tg-0lax"><a href="https://github.com/fortierq/animations">Algorithmic animations (Python, JS)</a></th>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><a href="https://github.com/fortierq/algorithms">Algorithms and data structures (Python)</a></th>
+    <td class="tg-0lax"><a href="https://github.com/fortierq/OCamlLibrary">Algorithms and data structures (OCaml)</a></th>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><a href="https://github.com/fortierq/algorithms">(Old) Simple Graph Library (C++)</a></th>
+    <td class="tg-0lax"></th>
+  </tr>
+</tbody>
+
+<thead>
+  <tr>
+    <th class="tg-baqh" colspan="3">LaTeX</th>
+  </tr>
+</tbody>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><a href="https://github.com/fortierq/tikz">TikZ gallery</a></th>
+    <td class="tg-0lax"><a href="https://github.com/fortierq/texmf">texmf files</a></th>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><a href="https://github.com/fortierq/devcontainer-latex)">Dev container with LaTeX + Minted for Visual Code</a></th>
+    <td class="tg-0lax"></th>
+  </tr>
+</tbody>
+
+<thead>
+  <tr>
+    <th class="tg-baqh" colspan="3">Utilities</th>
+  </tr>
+</tbody>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><a href="https://github.com/fortierq/add-binder-link-action">GitHub action to add a Binder links to notebooks</a></th>
+    <td class="tg-0lax"><a href="https://github.com/fortierq/flimit">Python package to limit time & memory usage</a></th>
+  </tr>
+</tbody>
+
 </table>
-
-#### Algorithms
-| [Competitive programming](https://github.com/fortierq/competitions) | [Algorithmic animations (Python, JS)](https://github.com/fortierq/animations) | [Algorithms and data structures (Python)](https://github.com/fortierq/algorithms) | [Algorithms and data structures (OCaml)](https://github.com/fortierq/OCamlLibrary) | [(Old) Simple Graph Library (C++)](https://github.com/fortierq/SGL) |
-|---|---|---|---|---|
-
-#### LaTeX
-
-| [TikZ gallery](https://github.com/fortierq/tikz) | [texmf files](https://github.com/fortierq/texmf) | [Dev container with LaTeX + Minted for Visual Code](https://github.com/fortierq/devcontainer-latex) |
-|---|---|---|
-
-#### Utilities
-| [GitHub action to add a Binder links to notebooks](https://github.com/fortierq/add-binder-link-action) | [Python package to limit time & memory usage](https://github.com/fortierq/flimit)|
-|---|---|
