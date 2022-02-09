@@ -23,7 +23,7 @@
 <tbody>
   <tr>
     <td class="tg-0lax"><a href="https://github.com/fortierq/mtgscan">MTGScan: card recognition with OCR (Python)</a></th>
-    <td class="tg-0lax"><a href="https://github.com/fortierq/mtgscan-app)">Web application for MTGScan (Python)</a></th>
+    <td class="tg-0lax"><a href="https://github.com/fortierq/mtgscan-app">Web application for MTGScan (Python)</a></th>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="https://github.com/fortierq/image-retrieval">Image retrieval from text (Python)</a></th>
