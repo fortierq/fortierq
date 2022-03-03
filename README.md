@@ -97,6 +97,9 @@
     <td class="tg-0lax"><a href="https://github.com/fortierq/add-binder-link-action">GitHub action adding Binder links to notebooks</a></th>
     <td class="tg-0lax"><a href="https://github.com/fortierq/flimit">Python package to limit time & memory usage</a></th>
   </tr>
+  <tr>
+    <td class="tg-0lax"><a href="https://github.com/fortierq/mdbook-pdf">pdf.js integration inside mdbook</a></th>
+  </tr>
 </tbody>
 
 </table>
