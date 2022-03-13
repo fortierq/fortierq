@@ -61,7 +61,7 @@
   </tr>
   <tr>
     <td class="tg-0lax"><a href="https://github.com/fortierq/algorithms">Algorithms and data structures (Python)</a></th>
-    <td class="tg-0lax"><a href="https://github.com/fortierq/OCamlLibrary">Algorithms and data structures (OCaml)</a></th>
+    <td class="tg-0lax"><a href="https://github.com/fortierq/mp2i-library">Algorithms and data structures (OCaml)</a></th>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="https://github.com/fortierq/algorithms">(Old) Simple Graph Library (C++)</a></th>
