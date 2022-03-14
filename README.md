@@ -33,7 +33,7 @@
 
 <thead>
   <tr>
-    <th class="tg-baqh" colspan="3">Algorithmique et Programmation</th>
+    <th class="tg-baqh" colspan="3">Algorithms and programming</th>
   </tr>
 </tbody>
 </thead>
@@ -43,11 +43,11 @@
     <td class="tg-0lax"><a href="https://github.com/fortierq/animations">Algorithmic animations (Python, JS)</a></th>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="https://github.com/fortierq/algorithms">Algorithms and data structures (Python)</a></th>
+    <td class="tg-0lax"><a href="https://github.com/fortierq/ocamlpython">Mini Python implementation with OCaml</a></th>
     <td class="tg-0lax"><a href="https://github.com/fortierq/mp2i-library">Algorithms and data structures (OCaml)</a></th>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="https://github.com/fortierq/ocamlpython">Implémentation d'un mini Python en OCaml</a></th>
+    <td class="tg-0lax"><a href="https://github.com/fortierq/algorithms">Algorithms and data structures (Python)</a></th>
     <td class="tg-0lax"><a href="https://github.com/fortierq/algorithms">(Old) Simple Graph Library (C++)</a></th>
   </tr>
 </tbody>
