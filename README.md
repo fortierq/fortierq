@@ -7,7 +7,7 @@
 <tbody>
   <tr>
     <td class="tg-0lax"><a href="https://github.com/mp2i-fsm/mp2i-2021">Informatique en MP2I (OCaml, C)</a> | <a href=https://github.com/fortierq/mp2i-jupyter-docker> Docker image </a></th>
-    <td class="tg-0lax"><a href="https://github.com/fortierq/oc-m1-2021)">Optimisation en Master Intelligence artificelle (Python)</a></th>
+    <td class="tg-0lax"><a href="https://github.com/fortierq/oc-m1-2021)">Optimisation en Master Intelligence Artificielle (Python)</a></th>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="https://github.com/fortierq/itc1">Informatique commune 1ère année en CPGE (Python, SQL)</a></th>
@@ -33,24 +33,7 @@
 
 <thead>
   <tr>
-    <th class="tg-baqh" colspan="3">Other projects</th>
-  </tr>
-</tbody>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax"><a href="https://github.com/fortierq/notebooks">Notebook collection (Python)</a></th>
-    <td class="tg-0lax"><a href="https://github.com/fortierq/OC3D)">(Old) Optimal surface cutting (C++, Blender)</a></th>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><a href="https://github.com/fortierq/Prismatoid">(Old) Counterexample to the Hirsch conjecture (C++, Z3)</a></th>
-    <td class="tg-0lax"></th>
-  </tr>
-</tbody>
-
-<thead>
-  <tr>
-    <th class="tg-baqh" colspan="3">Algorithms and data structures</th>
+    <th class="tg-baqh" colspan="3">Algorithmique et Programmation</th>
   </tr>
 </tbody>
 </thead>
@@ -64,7 +47,24 @@
     <td class="tg-0lax"><a href="https://github.com/fortierq/mp2i-library">Algorithms and data structures (OCaml)</a></th>
   </tr>
   <tr>
+    <td class="tg-0lax"><a href="https://github.com/fortierq/ocamlpython">Implémentation d'un mini Python en OCaml</a></th>
     <td class="tg-0lax"><a href="https://github.com/fortierq/algorithms">(Old) Simple Graph Library (C++)</a></th>
+  </tr>
+</tbody>
+
+<thead>
+  <tr>
+    <th class="tg-baqh" colspan="3">Other projects</th>
+  </tr>
+</tbody>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><a href="https://github.com/fortierq/notebooks">Notebook collection (Python)</a></th>
+    <td class="tg-0lax"><a href="https://github.com/fortierq/OC3D)">(Old) Optimal surface cutting (C++, Blender)</a></th>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><a href="https://github.com/fortierq/Prismatoid">(Old) Counterexample to the Hirsch conjecture (C++, Z3)</a></th>
     <td class="tg-0lax"></th>
   </tr>
 </tbody>
