@@ -3,16 +3,19 @@
     <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-0lax"> <a href="https://github.com/mp2i-fsm/mp2i-2021](https://github.com/mp2i-info/mp2i-info.github.io">Informatique en MP2I (OCaml, C)</a></th>
-    <td class="tg-0lax"><a href="https://mp-info.github.io">Cours d'option informatique en MP</a></th>
+    <td class="tg-0lax"><div style="display: inline-block; padding:20px;"><a href="https://github.com/mp2i-info/mp2i-info.github.io"><img src="https://gh-card.dev/repos/mp2i-info/mp2i-info.github.io.svg" /></a></div></th>
+    <td class="tg-0lax"><div style="display: inline-block; padding:20px;"><a href="https://github.com/mp-info/mp-info.github.io"><img src="https://gh-card.dev/repos/mp-info/mp-info.github.io.svg" /></a></div></th>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="https://cpge-itc.github.io/itc1">Informatique commune 1ère année de CPGE (Python)</a></th>
-    <td class="tg-0lax"><a href="https://cpge-itc.github.io/itc2">Informatique commune 2ème année de CPGE (Python, SQL)</a></th>
+    <td class="tg-0lax"><div style="display: inline-block; padding:20px;"><a href="https://github.com/cpge-itc/itc1"><img src="https://gh-card.dev/repos/cpge-itc/itc1.svg" /></a></div></th>
+    <td class="tg-0lax"><div style="display: inline-block; padding:20px;"><a href="https://github.com/cpge-itc/itc2"><img src="https://gh-card.dev/repos/cpge-itc/itc2.svg" /></a></div></th>
   </tr>
   <tr>
-    <td class="tg-0lax"> <a href="https://cpge-itc.github.io/bcpst2">Cours d'informatique en BCPST2</a></th>
-    <td class="tg-0lax"><a href="https://github.com/fortierq/oc-m1-2021">Optimisation en Master Intelligence Artificielle (Python)</a></th>
+    <td class="tg-0lax"><div style="display: inline-block; padding:20px;"><a href="https://github.com/cpge-itc/bcpst2"><img src="https://gh-card.dev/repos/cpge-itc/bcpst2.svg" /></a></div></th>
+    <td class="tg-0lax"><div style="display: inline-block; padding:20px;"><a href="https://github.com/cours-sql/cours-sql.github.io"><img src="https://gh-card.dev/repos/cours-sql/cours-sql.github.io.svg" /></a></div></th>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><div style="display: inline-block; padding:20px;"><a href="https://github.com/fortierq/oc-m1-2021"><img src="https://gh-card.dev/repos/fortierq/oc-m1-2021.svg" /></a></div></th>
   </tr>
 </tbody>
 </details>
