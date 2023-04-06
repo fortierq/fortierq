@@ -18,4 +18,21 @@
     <td class="tg-0lax"><div style="display: inline-block; padding:20px;"><a href="https://github.com/fortierq/oc-m1-2021"><img src="https://gh-card.dev/repos/fortierq/oc-m1-2021.svg" /></a></div></th>
   </tr>
 </tbody>
+</table>
 </details>
+
+<details>
+    <summary>Personal projects</summary>
+    <table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-0lax"><div style="display: inline-block; padding:20px;"><a href="https://github.com/fortierq/mtgscan"><img src="https://gh-card.dev/repos/fortierq/mtgscan.svg" /></a></div></th>
+    <td class="tg-0lax"> <div style="display: inline-block; padding:20px;"><a href="https://github.com/fortierq/mtgscan-app"><img src="https://gh-card.dev/repos/fortierq/mtgscan-app.svg" /> </a></div></th>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><div style="display: inline-block; padding:20px;"><a href="https://github.com/cours-sql/cours-sql.github.io"><img src="https://gh-card.dev/repos/cours-sql/cours-sql.github.io.svg" /></a></div></th>
+  </tr>
+</tbody>
+</table>
+</details>
+
