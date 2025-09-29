@@ -16,8 +16,6 @@
   </tr>
   <tr>
     <td class="tg-0lax"><div style="display: inline-block; padding:20px;"><a href="https://github.com/fortierq/oc-m1-2021"><img src="https://gh-card.dev/repos/fortierq/oc-m1-2021.svg" /></a></div></th>
-  </tr>
-  <tr>
   <td class="tg-0lax"><div style="display: inline-block; padding:20px;"><a href="https://github.com/mpi-lamartin/mpi-info"><img src="https://gh-card.dev/repos/mpi-lamartin/mpi-info.svg"></a></div></th>
   </tr>
 </tbody>
